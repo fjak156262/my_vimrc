@@ -1,0 +1,2 @@
+# my_vimrc
+# FOLLOW THESE STEPS BELOW
